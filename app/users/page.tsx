@@ -1,5 +1,5 @@
 import React from "react";
-import UserRow from "./components/UserRow";
+import UserCard from "./components/UserCard";
 
 interface user {
   id: number;
@@ -18,7 +18,7 @@ const userPage = async () => {
       </div>
       <div className="grid grid-cols-3  ">
         {users.map((user) => (
-          <UserRow
+          <UserCard
             key={user.id}
             name={user.name}
             username={user.username}

@@ -1,6 +1,6 @@
 import React from "react";
 
-const UserRow = ({
+const UserCard = ({
   name,
   username,
   email,
@@ -21,4 +21,4 @@ const UserRow = ({
   );
 };
 
-export default UserRow;
+export default UserCard;
