@@ -1,3 +1,7 @@
+##Simple Next.js App - Request & Response from Public API 
+This app for practise Next.js
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
