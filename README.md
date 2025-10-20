@@ -1,4 +1,4 @@
-##Simple Next.js App - Request & Response from Public API 
+## Simple Next.js App - Request & Response from Public API 
 This app for practise Next.js
 
 
